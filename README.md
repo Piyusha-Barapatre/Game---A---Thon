@@ -9,7 +9,6 @@ Test Case : Input : A = 1 , B = 2 , Output : A = 2 , B = 1
       first = second;
       second = temp;
       
-
 ```
 
 ###  Problem Statement 2 : Program to Multiply Two Numbers
@@ -19,7 +18,6 @@ Test Case : Input : A = 10 , B = 20 , Output : C = 200
 
     product = A * B;
     
-
 ```
 
 
